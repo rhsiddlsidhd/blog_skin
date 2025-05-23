@@ -11,7 +11,7 @@ body{
     margin: 0;
 }
 
-ul,li,ul{
+ul,li,ol{
     list-style: none;
     padding: 0;
 }
@@ -20,8 +20,6 @@ a{
     text-decoration: none;
     color: inherit;
 }
-
-
 
 button{
     border: none;
@@ -34,7 +32,6 @@ display: block;
   max-width: 100%;
   height: auto;
   object-fit: cover;
-
 }
 
 .anchor{
